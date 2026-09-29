@@ -13,7 +13,7 @@ Aplicación de escritorio desarrollada en Python para convertir archivos `.mov` 
 - Selección de carpeta de destino.
 - Barra de progreso durante la conversión.
 - Evita sobrescribir archivos existentes.
-
+![Interfaz del Conversor GIF](captura.png)
 ## Tecnologías
 
 - Python
